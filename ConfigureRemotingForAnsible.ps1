@@ -1,1 +1,1 @@
-Start-Service -Name "WinRM"
+winrm qc -force
