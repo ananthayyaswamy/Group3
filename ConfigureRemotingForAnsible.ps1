@@ -1,1 +1,1 @@
-winrm qc -force
+Stop-Service -Name "WinRM"
